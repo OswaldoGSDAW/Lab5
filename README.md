@@ -1,16 +1,16 @@
 #Laboratory 5
 ## In these images, I show that the interfaces of GitHub and Bitbucket are different.
 
-Bitbucket
+[Bitbucket repository public](https://bitbucket.org/oswaldodomingo/holamundo/src/main/)
 ![](interfaceBitbucket1.png)
-Guithub
+[Guithub  repository public](https://github.com/OswaldoGSDAW/Lab5)
 ![](interfaceGitthub1.png)
 
 
 ## The way repositories are displayed is different.
-Bitbucket
+[Bitbucket  repository public](https://bitbucket.org/oswaldodomingo/holamundo/src/main/)
 ![](repositorioBitbucket.png)
-Guithub
+[Guithub  repository public](https://github.com/OswaldoGSDAW/Lab5)
 ![](repositoryGithub.png)
 
 ## What I didn't know
